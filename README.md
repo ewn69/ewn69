@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ewn</h1>
 <h3 align="center">A linux/developer nerd from The Philippines!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ewn69&label=Profile%20views&color=0e75b6&style=flat" alt="ewn69" /> </p>
+  <p align="center">Visitors</p>
+  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/ewn69/count.svg"/></p>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 - 🔭 I’m currently working on [HicstrNodes](https://hicstrnodes.com)
 
