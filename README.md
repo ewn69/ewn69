@@ -3,8 +3,6 @@
 
   <p align="center">Visitors</p>
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/ewn69/count.svg"/></p>
-  
-  ![Counter](https://komarev.com/ghpvc/?username=ewn69)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
